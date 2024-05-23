@@ -1,0 +1,38 @@
+{
+  "name": "film-ferret",
+  "version": "1.0.0",
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@james-kirawan/expo-skeleton-placeholder": "^2.0.1",
+    "@react-native-masked-view/masked-view": "0.3.1",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/native-stack": "^6.9.26",
+    "@reduxjs/toolkit": "^2.2.5",
+    "@shopify/flash-list": "1.6.4",
+    "@tanstack/react-query": "^5.37.1",
+    "expo": "~51.0.8",
+    "expo-status-bar": "~1.12.1",
+    "formik": "^2.4.6",
+    "react": "18.2.0",
+    "react-native": "0.74.1",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-paper": "^5.12.3",
+    "react-native-reanimated": "~3.10.1",
+    "react-native-safe-area-context": "4.10.1",
+    "react-native-screens": "3.31.1",
+    "react-redux": "^9.1.2",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.0",
+    "@types/react": "~18.2.79",
+    "typescript": "~5.3.3"
+  },
+  "private": true
+}

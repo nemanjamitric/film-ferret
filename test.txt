@@ -1,0 +1,3476 @@
+{
+  "short": {
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "https://www.imdb.com/title/tt0111161/",
+    "name": "The Shawshank Redemption",
+    "alternateName": "Vykoupení z věznice Shawshank",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+    "description": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+    "review": {
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Movie",
+        "url": "https://www.imdb.com/title/tt0111161/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "EyeDunno"
+      },
+      "dateCreated": "2005-11-21",
+      "inLanguage": "English",
+      "name": "Don&apos;t Rent Shawshank.",
+      "reviewBody": "I&apos;m trying to save you money; this is the last film title that you should consider borrowing. Renting Shawshank will cost you five bucks... just plunk down the $25 and own the title. You&apos;ll wind up going back to this gem time and time again. This is one of few movies that are truly timeless. And it&apos;s entertaining and moving, no matter how many times you view it.Forget about what others (including myself) might suggest you&apos;ll discover in &quot;The Shawshank Redemption;&quot; when you watch it, you&apos;ll identify something very personal in your own life with a scene, a character, or a moment in this uncomplicated movie. When you need hope, you&apos;ll look for Shawshank. When you want to believe in the will of overcoming even the greatest obstacles, Shawshank will uplift you in ways that you can&apos;t find in movies today. Some liken the film to some kind of spiritual awakening. Of course, some can go to a church or mosque to find enlightenment and Faith in humanity, but most places of worship are open only certain days or times. But when you need affirmation of the lasting bond of friendships that prevail over the most dire circumstances, Shawshank will give it to you. It makes grown men (like me) cry, still. I wonder whether Shawshank was truly meant for viewing in the privacy of the home, because it is a personal experience that really makes you look inward. Nominated for seven, this is the best film that never one a single Oscar. How ironic that an innocent man winds up being surrounded by the corruption of the legal system. Shawshank itself is similar to the character of Andy Dufresne. Prejudging this classic film, critics couldn&apos;t get past the title. The public followed suit, initially dismissing Shawshank, which failed in the box office just like &quot;It&apos;s a Wonderful Life&quot; and &quot;Citizen Kane.&quot; It could have just whithered away on the store shelves, like Andy Dufresne could have in his own cell. But the characters prevailed, because Andy -- And Shawshank -- stayed true. Now, these movies are right up there as the most popular films of all time. Anyone who has yet to watch Shawshank may be so jaded of movies, or the film&apos;s title, or how a 2-1/2- hour movie set inside the walls of a prison can manage to tap the soul of such a wide range of people. Shawshank has not one explosion. I wonder if it even has a single special effect or digitally- enhanced frame. But every aspect of Shawshank fit together. The acting from the top to the bit part. The musical score. The editing. The photography. The story, from opening credits to final scene. All involved, including the town of Mansfield, Ohio (where Shawshank was actually filmed) played their roles perfectly. Shawshank is a must- see, must- own title.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": 1,
+        "bestRating": 10,
+        "ratingValue": 10
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": 2897567,
+      "bestRating": 10,
+      "worstRating": 1,
+      "ratingValue": 9.3
+    },
+    "contentRating": "12",
+    "genre": [
+      "Drama"
+    ],
+    "datePublished": "1995-07-06",
+    "keywords": "prison,based on the works of stephen king,escape from prison,friendship between men,wrongful conviction",
+    "trailer": {
+      "@type": "VideoObject",
+      "name": "Official Trailer",
+      "embedUrl": "https://www.imdb.com/video/imdb/vi3877612057",
+      "thumbnail": {
+        "@type": "ImageObject",
+        "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjQ2NDA3MDcxMF5BMl5BanBnXkFtZTgwMjE5NTU0NzE@._V1_.jpg"
+      },
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjQ2NDA3MDcxMF5BMl5BanBnXkFtZTgwMjE5NTU0NzE@._V1_.jpg",
+      "url": "https://www.imdb.com/video/vi3877612057/",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "duration": "PT2M11S",
+      "uploadDate": "2014-03-05T14:13:19Z"
+    },
+    "actor": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000209/",
+        "name": "Tim Robbins"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000151/",
+        "name": "Morgan Freeman"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0348409/",
+        "name": "Bob Gunton"
+      }
+    ],
+    "director": [
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0001104/",
+        "name": "Frank Darabont"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Organization",
+        "url": "https://www.imdb.com/company/co0040620/"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0000175/",
+        "name": "Stephen King"
+      },
+      {
+        "@type": "Person",
+        "url": "https://www.imdb.com/name/nm0001104/",
+        "name": "Frank Darabont"
+      }
+    ],
+    "duration": "PT2H22M"
+  },
+  "imdbId": "tt0111161",
+  "top": {
+    "id": "tt0111161",
+    "productionStatus": {
+      "currentProductionStage": {
+        "id": "released",
+        "text": "Released",
+        "__typename": "ProductionStage"
+      },
+      "productionStatusHistory": [
+        {
+          "status": {
+            "id": "released",
+            "text": "Released",
+            "__typename": "ProductionStatus"
+          },
+          "__typename": "ProductionStatusHistory"
+        }
+      ],
+      "restriction": null,
+      "__typename": "ProductionStatusDetails"
+    },
+    "canHaveEpisodes": false,
+    "series": null,
+    "titleText": {
+      "text": "Vykoupení z věznice Shawshank",
+      "__typename": "TitleText"
+    },
+    "titleType": {
+      "displayableProperty": {
+        "value": {
+          "plainText": "",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleTypeProperty"
+      },
+      "text": "Movie",
+      "id": "movie",
+      "isSeries": false,
+      "isEpisode": false,
+      "categories": [
+        {
+          "value": "movie",
+          "__typename": "TitleTypeCategory"
+        }
+      ],
+      "canHaveEpisodes": false,
+      "__typename": "TitleType"
+    },
+    "originalTitleText": {
+      "text": "The Shawshank Redemption",
+      "__typename": "TitleText"
+    },
+    "certificate": {
+      "rating": "12",
+      "__typename": "Certificate"
+    },
+    "releaseYear": {
+      "year": 1994,
+      "endYear": null,
+      "__typename": "YearRange"
+    },
+    "releaseDate": {
+      "day": 6,
+      "month": 7,
+      "year": 1995,
+      "__typename": "ReleaseDate"
+    },
+    "runtime": {
+      "seconds": 8520,
+      "displayableProperty": {
+        "value": {
+          "plainText": "2h 22m",
+          "__typename": "Markdown"
+        },
+        "__typename": "DisplayableTitleRuntimeProperty"
+      },
+      "__typename": "Runtime"
+    },
+    "canRate": {
+      "isRatable": true,
+      "__typename": "CanRate"
+    },
+    "ratingsSummary": {
+      "aggregateRating": 9.3,
+      "voteCount": 2897567,
+      "__typename": "RatingsSummary"
+    },
+    "meterRanking": {
+      "currentRank": 62,
+      "rankChange": {
+        "changeDirection": "UP",
+        "difference": 10,
+        "__typename": "MeterRankChange"
+      },
+      "__typename": "TitleMeterRanking"
+    },
+    "primaryImage": {
+      "id": "rm1690056449",
+      "width": 1200,
+      "height": 1800,
+      "url": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+      "caption": {
+        "plainText": "Tim Robbins in Vykoupení z věznice Shawshank (1994)",
+        "__typename": "Markdown"
+      },
+      "__typename": "Image"
+    },
+    "images": {
+      "total": 327,
+      "edges": [
+        {
+          "node": {
+            "id": "rm2971500544",
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        }
+      ],
+      "__typename": "ImageConnection"
+    },
+    "videos": {
+      "total": 6,
+      "__typename": "TitleRelatedVideosConnection"
+    },
+    "primaryVideos": {
+      "edges": [
+        {
+          "node": {
+            "id": "vi3877612057",
+            "createdDate": "2014-03-05T14:13:19Z",
+            "isMature": false,
+            "runtime": {
+              "value": 131,
+              "__typename": "VideoRuntime"
+            },
+            "name": {
+              "value": "Official Trailer",
+              "language": "en",
+              "__typename": "LocalizedString"
+            },
+            "description": {
+              "value": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+              "language": "en",
+              "__typename": "LocalizedString"
+            },
+            "timedTextTracks": [],
+            "recommendedTimedTextTrack": null,
+            "thumbnail": {
+              "url": "https://m.media-amazon.com/images/M/MV5BNjQ2NDA3MDcxMF5BMl5BanBnXkFtZTgwMjE5NTU0NzE@._V1_.jpg",
+              "height": 480,
+              "width": 640,
+              "__typename": "Thumbnail"
+            },
+            "primaryTitle": {
+              "id": "tt0111161",
+              "titleText": {
+                "text": "Vykoupení z věznice Shawshank",
+                "__typename": "TitleText"
+              },
+              "originalTitleText": {
+                "text": "The Shawshank Redemption",
+                "__typename": "TitleText"
+              },
+              "releaseYear": {
+                "year": 1994,
+                "__typename": "YearRange"
+              },
+              "__typename": "Title"
+            },
+            "playbackURLs": [
+              {
+                "displayName": {
+                  "value": "480p",
+                  "language": "en-US",
+                  "__typename": "LocalizedString"
+                },
+                "videoMimeType": "MP4",
+                "videoDefinition": "DEF_480p",
+                "url": "https://imdb-video.media-imdb.com/vi3877612057/1434659607842-pgv4ql-1616202333253.mp4?Expires=1716508316&Signature=gb7Q7pJaSCJfwZq1ahXV3H1Qq~ePpIdy7gFVKaL73ilxtlhHiTekKmHHtG0QF5bVAgT4D9wE9zpmQXZNMW-qfoaTJeBU8dbi-nHz4K9m-eDsNaB7AeSbiD8QMyE-90xIHyDOiyNi9aJOiyGms6ZseGIRS~KpyXu9Kl-HPG~sqWGYVLfjxFO3qNIYZvgRffEwj5zwCgCO0AxezyYSp1EduFGHLARJTXAIKct~ht1jHOYGQbkKmlsQ~WBIMsCkMc0Tjs7UBYrqD-XGo4NHeUZXb-veBgAPutlcB-iN0dDzqe5Z9KceJPwsdHCN3cwIb9TOx02G~l9hHP4HXgqC7WBjdQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                "__typename": "PlaybackURL"
+              },
+              {
+                "displayName": {
+                  "value": "SD",
+                  "language": "en-US",
+                  "__typename": "LocalizedString"
+                },
+                "videoMimeType": "MP4",
+                "videoDefinition": "DEF_SD",
+                "url": "https://imdb-video.media-imdb.com/vi3877612057/1434659454657-dx9ykf-1616202333253.mp4?Expires=1716508316&Signature=srQEJeZQGkTUyr1n4THS8AhukP1-sro~QE-C2164v37-0GloqEkaiBBIVZgtARjESAwKBNB22FptUmxCTl3zxCmfx8qX6Xgn2mqlkE8kED7mmj7iLPA2AOiZDLnL6eG29KfUA7IHxQwiI7k9iJqa76yiFqzxuMK~ZbXnB99i~xkio0oXnLMV3R3KrRK-Dc6qFXI~GVZfrUcUVq1gkNvMMA0aUexTBQ1KCgakT0QjPo67aoIl7FAa6ixo5LMcYUzqrHXFcrjgzHWBkSJsKvbTcmiBZWvqDXLn3uNaB3YepsghPtaautEc2fnD85fl6F28ZLl0DHTT371~dUou-liYGg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                "__typename": "PlaybackURL"
+              }
+            ],
+            "contentType": {
+              "id": "amzn1.imdb.video.contenttype.trailer",
+              "displayName": {
+                "value": "Trailer",
+                "__typename": "LocalizedString"
+              },
+              "__typename": "VideoContentType"
+            },
+            "previewURLs": [
+              {
+                "displayName": {
+                  "value": "AUTO",
+                  "language": "en-US",
+                  "__typename": "LocalizedString"
+                },
+                "videoMimeType": "M3U8",
+                "videoDefinition": "DEF_AUTO",
+                "url": "https://imdb-video.media-imdb.com/vi3877612057/hls-preview-ab1a76ea-87f8-41cf-88e4-db41298660e8.m3u8?Expires=1716508316&Signature=X7RCRSTLASWFO9QBpVdt4~ZFZWquCVCWuIOy9BnF8zwLGqRnelCsPCIpwXz9Fn3aN~~eYztezF57XL-cXEUzc6lLZhvkVYxDMvc2-pRSHPaaSfXIXnBWRBV~Jw4ztD7N5C3wDsYD-OJf7Y3-RCx2m7AUwtL1eDrCLTYRdsx1fynWxSI8kz2WpnTcoa9QjEE5opF6J1fLpRrqPAnVHspsy7nejnlZY3unw0NvyCqUFOC2h3Av4RRj~5XDuh1J6zdv6tolFAFsMxU8hSDGL2XfGx9edTIz5aYGnmNLAJKYsVz8STx-FO-gdBFrDvsrgIBxC~2oemWmCNUZ9HI3VmdSzw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                "__typename": "PlaybackURL"
+              }
+            ],
+            "__typename": "Video"
+          },
+          "__typename": "VideoEdge"
+        },
+        {
+          "node": {
+            "id": "vi976077081",
+            "createdDate": "2020-12-15T03:45:29.715Z",
+            "isMature": false,
+            "runtime": {
+              "value": 523,
+              "__typename": "VideoRuntime"
+            },
+            "name": {
+              "value": "Guillermo del Toro and Neil Gaiman Find Hope in Powerful, Eclectic Films",
+              "language": "en",
+              "__typename": "LocalizedString"
+            },
+            "description": {
+              "value": "The Oscar-winning director joins the Good Omens creator to share a list of films that provide a sense of hope in difficult times. Their picks include some of the top-rated films on IMDb and a few cult classics. The two visionary artists have teamed up with IMDb and the UN Refugee Agency to assemble this list and raise awareness for refugees and other vulnerable communities who have been especially effected by COVID-19. If you can help, please make a donation at Covid19ResponseFund.org.",
+              "language": "en",
+              "__typename": "LocalizedString"
+            },
+            "timedTextTracks": [
+              {
+                "displayName": {
+                  "value": "English",
+                  "language": "en-US",
+                  "__typename": "LocalizedString"
+                },
+                "refTagFragment": "cc-en-US",
+                "type": "CLOSED_CAPTION",
+                "language": "en-US",
+                "url": "https://assets.video.media-imdb.com/vi976077081/en-US-manual-cc-1665089485139.srt",
+                "__typename": "VideoTimedTextTrack"
+              }
+            ],
+            "recommendedTimedTextTrack": {
+              "displayName": {
+                "value": "English",
+                "language": "en-US",
+                "__typename": "LocalizedString"
+              },
+              "refTagFragment": "cc-en-US",
+              "type": "CLOSED_CAPTION",
+              "language": "en-US",
+              "url": "https://assets.video.media-imdb.com/vi976077081/en-US-manual-cc-1665089485139.srt",
+              "__typename": "VideoTimedTextTrack"
+            },
+            "thumbnail": {
+              "url": "https://m.media-amazon.com/images/M/MV5BZmY1MDZkNGEtNWVhNC00NzlmLTllMTgtODY0MGFlZDEzMGJhXkEyXkFqcGdeQWplZmZscA@@._V1_.jpg",
+              "height": 1080,
+              "width": 1920,
+              "__typename": "Thumbnail"
+            },
+            "primaryTitle": {
+              "id": "tt13647314",
+              "titleText": {
+                "text": "Neil Gaiman and Guillermo del Toro",
+                "__typename": "TitleText"
+              },
+              "originalTitleText": {
+                "text": "Neil Gaiman and Guillermo del Toro",
+                "__typename": "TitleText"
+              },
+              "releaseYear": {
+                "year": 2020,
+                "__typename": "YearRange"
+              },
+              "__typename": "Title"
+            },
+            "playbackURLs": [
+              {
+                "displayName": {
+                  "value": "480p",
+                  "language": "en-US",
+                  "__typename": "LocalizedString"
+                },
+                "videoMimeType": "MP4",
+                "videoDefinition": "DEF_480p",
+                "url": "https://imdb-video.media-imdb.com/vi976077081/1434659607842-pgv4ql-1608003930396.mp4?Expires=1716508316&Signature=beyRSHugFiP9MDaL~9sh6qIcNaZOqW9N7fUTgnsHeO~KyBb6my3TSD17PYtpF6h98zRQ3~vIs6Cmx~OIWDarG8HGEP1YktgzKpltYC94NXP2NAW22AphkLmMriYa4JosCq5sHsae8WGZudY1AuUwcAb0I0UvxGe6QPsozUxReOFAWmiD6KFOBDq~rCrukC0QlGKnh5uAxGk-48lQEl6G9iiYkLfm7-YKZkoLvPgy651fEPLLm1JU-ueBe4z9BBs6KgWQGz3l0T05JtyJFNwZbA-kA4EVuAKTwEkGnJV9Y41Ze6jKmE7NQhfCG~zWepwb5T~qyyXcX1hRxQ1HKqqmAQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                "__typename": "PlaybackURL"
+              },
+              {
+                "displayName": {
+                  "value": "SD",
+                  "language": "en-US",
+                  "__typename": "LocalizedString"
+                },
+                "videoMimeType": "MP4",
+                "videoDefinition": "DEF_SD",
+                "url": "https://imdb-video.media-imdb.com/vi976077081/1434659454657-dx9ykf-1608003930396.mp4?Expires=1716508316&Signature=nI8tiPLASEx4pk79~S6TYsdhF2gsl52jNj52Ti6wJ1q6mUwpw4JkRDbrVKHJfOuKQaj66G3wg0N0KmP8Bwr-6P44Q06~FLgO-BLDU9RppuGPu7gHa2TZ-Imi3PmsKz1KQ6xQIjj4NFs579RXjKRk5Co3ynkE01kUrXc-~8LerSIBB3hLGB8DFxyfT0OKHbedVTpMPHn4iimKF1fUxHlXFb54LRisZu-0BCoYG8fIfFE6U1pjVzmNw35-65~bPoVj~I5eIIF9ksHloAi4gJYGnY-ylimplXdiMQcxJf7H4FKYqey7cmGvMg4WIhjbW7gJBBgFsfxlOusda6OB3Nd1Wg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                "__typename": "PlaybackURL"
+              }
+            ],
+            "contentType": {
+              "id": "amzn1.imdb.video.contenttype.clip",
+              "displayName": {
+                "value": "Clip",
+                "__typename": "LocalizedString"
+              },
+              "__typename": "VideoContentType"
+            },
+            "previewURLs": [
+              {
+                "displayName": {
+                  "value": "AUTO",
+                  "language": "en-US",
+                  "__typename": "LocalizedString"
+                },
+                "videoMimeType": "M3U8",
+                "videoDefinition": "DEF_AUTO",
+                "url": "https://imdb-video.media-imdb.com/vi976077081/hls-preview-17e7bf08-500b-4bf8-9369-d1f4e8262a8e.m3u8?Expires=1716508316&Signature=E3wZVxdW08XbLL9wbvkttlhlRJe1DhoHJTFqALXx1lkmwOAH1FWVvyh9RaX5d~vtAhZikW6MQIfMXm04uC8AifcnhdFXosY9Mf3~pg793hMrPIMtAjzyKas80LBRC6hDShgOD11-g3F1rMOOyr-nn4R4vArFpCW53lPGQH3k7Wb7dJvVGQMMDreRcDvStBJBKcsT0CN1OaAMGzGh-P~TxV2idYurY1~WSOl4mKLmkYTKhRWwkAQMi29soYRLJmataw8hVm5CTUlbZlQ1UQ5a3-ShQMwrsq4DruTLT2U5J2ZXv8WpmVB6RHYaa~aGl4aof9FPNJUl3gAvaRiedvhr4g__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                "__typename": "PlaybackURL"
+              }
+            ],
+            "__typename": "Video"
+          },
+          "__typename": "VideoEdge"
+        }
+      ],
+      "__typename": "VideoConnection"
+    },
+    "externalLinks": {
+      "total": 288,
+      "__typename": "ExternalLinkConnection"
+    },
+    "metacritic": {
+      "metascore": {
+        "score": 82,
+        "__typename": "Metascore"
+      },
+      "__typename": "Metacritic"
+    },
+    "keywords": {
+      "total": 386,
+      "edges": [
+        {
+          "node": {
+            "text": "prison",
+            "__typename": "TitleKeyword"
+          },
+          "__typename": "TitleKeywordEdge"
+        },
+        {
+          "node": {
+            "text": "based on the works of stephen king",
+            "__typename": "TitleKeyword"
+          },
+          "__typename": "TitleKeywordEdge"
+        },
+        {
+          "node": {
+            "text": "escape from prison",
+            "__typename": "TitleKeyword"
+          },
+          "__typename": "TitleKeywordEdge"
+        },
+        {
+          "node": {
+            "text": "friendship between men",
+            "__typename": "TitleKeyword"
+          },
+          "__typename": "TitleKeywordEdge"
+        },
+        {
+          "node": {
+            "text": "wrongful conviction",
+            "__typename": "TitleKeyword"
+          },
+          "__typename": "TitleKeywordEdge"
+        }
+      ],
+      "__typename": "TitleKeywordConnection"
+    },
+    "genres": {
+      "genres": [
+        {
+          "text": "Drama",
+          "id": "Drama",
+          "__typename": "Genre"
+        }
+      ],
+      "__typename": "Genres"
+    },
+    "plot": {
+      "plotText": {
+        "plainText": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+        "__typename": "Markdown"
+      },
+      "language": {
+        "id": "en-US",
+        "__typename": "DisplayableLanguage"
+      },
+      "__typename": "Plot"
+    },
+    "plotContributionLink": {
+      "url": "https://contribute.imdb.com/updates?update=tt0111161:outlines.add.1.locale~en-US",
+      "__typename": "ContributionLink"
+    },
+    "credits": {
+      "total": 357,
+      "__typename": "CreditConnection"
+    },
+    "principalCredits": [
+      {
+        "totalCredits": 1,
+        "category": {
+          "text": "Director",
+          "id": "director",
+          "__typename": "CreditCategory"
+        },
+        "credits": [
+          {
+            "name": {
+              "nameText": {
+                "text": "Frank Darabont",
+                "__typename": "NameText"
+              },
+              "id": "nm0001104",
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "__typename": "Crew"
+          }
+        ],
+        "__typename": "PrincipalCreditsForCategory"
+      },
+      {
+        "totalCredits": 2,
+        "category": {
+          "text": "Writers",
+          "id": "writer",
+          "__typename": "CreditCategory"
+        },
+        "credits": [
+          {
+            "name": {
+              "nameText": {
+                "text": "Stephen King",
+                "__typename": "NameText"
+              },
+              "id": "nm0000175",
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "__typename": "Crew"
+          },
+          {
+            "name": {
+              "nameText": {
+                "text": "Frank Darabont",
+                "__typename": "NameText"
+              },
+              "id": "nm0001104",
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "__typename": "Crew"
+          }
+        ],
+        "__typename": "PrincipalCreditsForCategory"
+      },
+      {
+        "totalCredits": 73,
+        "category": {
+          "text": "Stars",
+          "id": "cast",
+          "__typename": "CreditCategory"
+        },
+        "credits": [
+          {
+            "name": {
+              "nameText": {
+                "text": "Tim Robbins",
+                "__typename": "NameText"
+              },
+              "id": "nm0000209",
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "__typename": "Cast"
+          },
+          {
+            "name": {
+              "nameText": {
+                "text": "Morgan Freeman",
+                "__typename": "NameText"
+              },
+              "id": "nm0000151",
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "__typename": "Cast"
+          },
+          {
+            "name": {
+              "nameText": {
+                "text": "Bob Gunton",
+                "__typename": "NameText"
+              },
+              "id": "nm0348409",
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "__typename": "Cast"
+          }
+        ],
+        "__typename": "PrincipalCreditsForCategory"
+      }
+    ],
+    "reviews": {
+      "total": 11074,
+      "__typename": "ReviewsConnection"
+    },
+    "criticReviewsTotal": {
+      "total": 175,
+      "__typename": "ExternalLinkConnection"
+    },
+    "triviaTotal": {
+      "total": 212,
+      "__typename": "TriviaConnection"
+    },
+    "engagementStatistics": {
+      "watchlistStatistics": {
+        "displayableCount": {
+          "text": "Added by 1.5M users",
+          "__typename": "LocalizedDisplayableCount"
+        },
+        "__typename": "WatchlistStatistics"
+      },
+      "__typename": "EngagementStatistics"
+    },
+    "subNavCredits": {
+      "total": 357,
+      "__typename": "CreditConnection"
+    },
+    "subNavReviews": {
+      "total": 11074,
+      "__typename": "ReviewsConnection"
+    },
+    "subNavTrivia": {
+      "total": 212,
+      "__typename": "TriviaConnection"
+    },
+    "subNavFaqs": {
+      "total": 42,
+      "__typename": "FaqConnection"
+    },
+    "subNavTopQuestions": {
+      "total": 20,
+      "__typename": "AlexaQuestionConnection"
+    },
+    "titleGenres": {
+      "genres": [
+        {
+          "genre": {
+            "text": "Drama",
+            "__typename": "GenreItem"
+          },
+          "__typename": "TitleGenre"
+        }
+      ],
+      "__typename": "TitleGenres"
+    },
+    "meta": {
+      "canonicalId": "tt0111161",
+      "publicationStatus": "PUBLISHED",
+      "__typename": "TitleMeta"
+    },
+    "castPageTitle": {
+      "edges": [
+        {
+          "node": {
+            "name": {
+              "id": "nm0000209",
+              "nameText": {
+                "text": "Tim Robbins",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0000151",
+              "nameText": {
+                "text": "Morgan Freeman",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0348409",
+              "nameText": {
+                "text": "Bob Gunton",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0006669",
+              "nameText": {
+                "text": "William Sadler",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        }
+      ],
+      "__typename": "CreditConnection"
+    },
+    "creatorsPageTitle": [],
+    "directorsPageTitle": [
+      {
+        "credits": [
+          {
+            "name": {
+              "id": "nm0001104",
+              "nameText": {
+                "text": "Frank Darabont",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "__typename": "Crew"
+          }
+        ],
+        "__typename": "PrincipalCreditsForCategory"
+      }
+    ],
+    "countriesOfOrigin": {
+      "countries": [
+        {
+          "id": "US",
+          "__typename": "CountryOfOrigin"
+        }
+      ],
+      "__typename": "CountriesOfOrigin"
+    },
+    "production": {
+      "edges": [
+        {
+          "node": {
+            "company": {
+              "id": "co0040620",
+              "companyText": {
+                "text": "Castle Rock Entertainment",
+                "__typename": "CompanyText"
+              },
+              "__typename": "Company"
+            },
+            "__typename": "CompanyCredit"
+          },
+          "__typename": "CompanyCreditEdge"
+        }
+      ],
+      "__typename": "CompanyCreditConnection"
+    },
+    "featuredReviews": {
+      "edges": [
+        {
+          "node": {
+            "author": {
+              "nickName": "EyeDunno",
+              "__typename": "UserProfile"
+            },
+            "summary": {
+              "originalText": "Don't Rent Shawshank.",
+              "__typename": "ReviewSummary"
+            },
+            "text": {
+              "originalText": {
+                "plainText": "I'm trying to save you money; this is the last film title that you should consider borrowing. Renting Shawshank will cost you five bucks... just plunk down the $25 and own the title. You'll wind up going back to this gem time and time again. This is one of few movies that are truly timeless. And it's entertaining and moving, no matter how many times you view it.Forget about what others (including myself) might suggest you'll discover in The Shawshank Redemption; when you watch it, you'll identify something very personal in your own life with a scene, a character, or a moment in this uncomplicated movie. When you need hope, you'll look for Shawshank. When you want to believe in the will of overcoming even the greatest obstacles, Shawshank will uplift you in ways that you can't find in movies today. Some liken the film to some kind of spiritual awakening. Of course, some can go to a church or mosque to find enlightenment and Faith in humanity, but most places of worship are open only certain days or times. But when you need affirmation of the lasting bond of friendships that prevail over the most dire circumstances, Shawshank will give it to you. It makes grown men (like me) cry, still. I wonder whether Shawshank was truly meant for viewing in the privacy of the home, because it is a personal experience that really makes you look inward. Nominated for seven, this is the best film that never one a single Oscar. How ironic that an innocent man winds up being surrounded by the corruption of the legal system. Shawshank itself is similar to the character of Andy Dufresne. Prejudging this classic film, critics couldn't get past the title. The public followed suit, initially dismissing Shawshank, which failed in the box office just like It's a Wonderful Life and Citizen Kane. It could have just whithered away on the store shelves, like Andy Dufresne could have in his own cell. But the characters prevailed, because Andy -- And Shawshank -- stayed true. Now, these movies are right up there as the most popular films of all time. Anyone who has yet to watch Shawshank may be so jaded of movies, or the film's title, or how a 2-1/2- hour movie set inside the walls of a prison can manage to tap the soul of such a wide range of people. Shawshank has not one explosion. I wonder if it even has a single special effect or digitally- enhanced frame. But every aspect of Shawshank fit together. The acting from the top to the bit part. The musical score. The editing. The photography. The story, from opening credits to final scene. All involved, including the town of Mansfield, Ohio (where Shawshank was actually filmed) played their roles perfectly. Shawshank is a must- see, must- own title.",
+                "__typename": "Markdown"
+              },
+              "__typename": "ReviewText"
+            },
+            "authorRating": 10,
+            "submissionDate": "2005-11-21",
+            "__typename": "Review"
+          },
+          "__typename": "ReviewEdge"
+        }
+      ],
+      "__typename": "ReviewsConnection"
+    },
+    "__typename": "Title"
+  },
+  "main": {
+    "id": "tt0111161",
+    "wins": {
+      "total": 21,
+      "__typename": "AwardNominationConnection"
+    },
+    "nominations": {
+      "total": 42,
+      "__typename": "AwardNominationConnection"
+    },
+    "prestigiousAwardSummary": {
+      "nominations": 7,
+      "wins": 0,
+      "award": {
+        "text": "Oscar",
+        "id": "aw0000016",
+        "event": {
+          "id": "ev0000003",
+          "__typename": "AwardsEvent"
+        },
+        "__typename": "AwardDetails"
+      },
+      "__typename": "PrestigiousAwardSummary"
+    },
+    "ratingsSummary": {
+      "topRanking": {
+        "id": "topRated:tt0111161:en_US",
+        "text": {
+          "value": "Top Rated",
+          "__typename": "LocalizedString"
+        },
+        "rank": 1,
+        "__typename": "TopRanking"
+      },
+      "__typename": "RatingsSummary"
+    },
+    "episodes": null,
+    "videos": {
+      "total": 6,
+      "__typename": "TitleRelatedVideosConnection"
+    },
+    "videoStrip": {
+      "edges": [
+        {
+          "node": {
+            "id": "vi3877612057",
+            "contentType": {
+              "displayName": {
+                "value": "Trailer",
+                "__typename": "LocalizedString"
+              },
+              "__typename": "VideoContentType"
+            },
+            "name": {
+              "value": "Official Trailer",
+              "__typename": "LocalizedString"
+            },
+            "runtime": {
+              "value": 131,
+              "__typename": "VideoRuntime"
+            },
+            "thumbnail": {
+              "height": 480,
+              "url": "https://m.media-amazon.com/images/M/MV5BNjQ2NDA3MDcxMF5BMl5BanBnXkFtZTgwMjE5NTU0NzE@._V1_.jpg",
+              "width": 640,
+              "__typename": "Thumbnail"
+            },
+            "__typename": "Video"
+          },
+          "__typename": "VideoEdge"
+        },
+        {
+          "node": {
+            "id": "vi976077081",
+            "contentType": {
+              "displayName": {
+                "value": "Clip",
+                "__typename": "LocalizedString"
+              },
+              "__typename": "VideoContentType"
+            },
+            "name": {
+              "value": "Guillermo del Toro and Neil Gaiman Find Hope in Powerful, Eclectic Films",
+              "__typename": "LocalizedString"
+            },
+            "runtime": {
+              "value": 523,
+              "__typename": "VideoRuntime"
+            },
+            "thumbnail": {
+              "height": 1080,
+              "url": "https://m.media-amazon.com/images/M/MV5BZmY1MDZkNGEtNWVhNC00NzlmLTllMTgtODY0MGFlZDEzMGJhXkEyXkFqcGdeQWplZmZscA@@._V1_.jpg",
+              "width": 1920,
+              "__typename": "Thumbnail"
+            },
+            "__typename": "Video"
+          },
+          "__typename": "VideoEdge"
+        },
+        {
+          "node": {
+            "id": "vi2425798425",
+            "contentType": {
+              "displayName": {
+                "value": "Clip",
+                "__typename": "LocalizedString"
+              },
+              "__typename": "VideoContentType"
+            },
+            "name": {
+              "value": "'The Shawshank Redemption' | Anniversary Mashup",
+              "__typename": "LocalizedString"
+            },
+            "runtime": {
+              "value": 61,
+              "__typename": "VideoRuntime"
+            },
+            "thumbnail": {
+              "height": 1080,
+              "url": "https://m.media-amazon.com/images/M/MV5BNTIzNjM3OGMtNzE0YS00NjcwLWI1NDgtM2M4YjI2ZGMyN2I2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+              "width": 1920,
+              "__typename": "Thumbnail"
+            },
+            "__typename": "Video"
+          },
+          "__typename": "VideoEdge"
+        },
+        {
+          "node": {
+            "id": "vi2910632473",
+            "contentType": {
+              "displayName": {
+                "value": "Video",
+                "__typename": "LocalizedString"
+              },
+              "__typename": "VideoContentType"
+            },
+            "name": {
+              "value": "What Jack From 'Titanic' Was Really Thinking, According to Phoebe Robinson",
+              "__typename": "LocalizedString"
+            },
+            "runtime": {
+              "value": 115,
+              "__typename": "VideoRuntime"
+            },
+            "thumbnail": {
+              "height": 1080,
+              "url": "https://m.media-amazon.com/images/M/MV5BMTBjNmQyYzAtNTAwYy00MjRmLTkzMjAtM2U5NjQxZTI2MDgwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+              "width": 1920,
+              "__typename": "Thumbnail"
+            },
+            "__typename": "Video"
+          },
+          "__typename": "VideoEdge"
+        },
+        {
+          "node": {
+            "id": "vi2032974361",
+            "contentType": {
+              "displayName": {
+                "value": "Video",
+                "__typename": "LocalizedString"
+              },
+              "__typename": "VideoContentType"
+            },
+            "name": {
+              "value": "Who Else Almost Starred In 'The Shawshank Redemption?'",
+              "__typename": "LocalizedString"
+            },
+            "runtime": {
+              "value": 145,
+              "__typename": "VideoRuntime"
+            },
+            "thumbnail": {
+              "height": 1080,
+              "url": "https://m.media-amazon.com/images/M/MV5BOGMzZDU0ODgtYTg3ZC00ZGI4LThlNGUtZDc2YmQwZGQ2YTI2XkEyXkFqcGdeQWFhcm9uYmVy._V1_.jpg",
+              "width": 1920,
+              "__typename": "Thumbnail"
+            },
+            "__typename": "Video"
+          },
+          "__typename": "VideoEdge"
+        },
+        {
+          "node": {
+            "id": "vi1874967321",
+            "contentType": {
+              "displayName": {
+                "value": "Video",
+                "__typename": "LocalizedString"
+              },
+              "__typename": "VideoContentType"
+            },
+            "name": {
+              "value": "Roles That Tom Cruise Turned Down",
+              "__typename": "LocalizedString"
+            },
+            "runtime": {
+              "value": 142,
+              "__typename": "VideoRuntime"
+            },
+            "thumbnail": {
+              "height": 702,
+              "url": "https://m.media-amazon.com/images/M/MV5BYmYwNmFkOGYtY2NjMC00M2JjLWEzZDktYzdmYmVlZGYyZDgzXkEyXkFqcGdeQWFhcm9uYmVy._V1_.jpg",
+              "width": 1248,
+              "__typename": "Thumbnail"
+            },
+            "__typename": "Video"
+          },
+          "__typename": "VideoEdge"
+        }
+      ],
+      "__typename": "VideoConnection"
+    },
+    "titleMainImages": {
+      "total": 327,
+      "edges": [
+        {
+          "node": {
+            "id": "rm2971500544",
+            "url": "https://m.media-amazon.com/images/M/MV5BMTM0NjUxMDk5MF5BMl5BanBnXkFtZTcwNDMxNDY3Mw@@._V1_.jpg",
+            "caption": {
+              "plainText": "Morgan Freeman, William Sadler, Larry Brandenburg, Neil Giuntoli, Brian Libby, David Proval, and Joseph Ragno in Vykoupení z věznice Shawshank (1994)",
+              "__typename": "Markdown"
+            },
+            "height": 1200,
+            "width": 1800,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm2954723328",
+            "url": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2Nzg3Nl5BMl5BanBnXkFtZTcwNTMxNDY3Mw@@._V1_.jpg",
+            "caption": {
+              "plainText": "Clancy Brown, Dion Anderson, and Brian Delate in Vykoupení z věznice Shawshank (1994)",
+              "__typename": "Markdown"
+            },
+            "height": 1362,
+            "width": 2048,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm3206381568",
+            "url": "https://m.media-amazon.com/images/M/MV5BMTg0MDgwNjc5N15BMl5BanBnXkFtZTcwNjMxNDY3Mw@@._V1_.jpg",
+            "caption": {
+              "plainText": "Tim Robbins in Vykoupení z věznice Shawshank (1994)",
+              "__typename": "Markdown"
+            },
+            "height": 2048,
+            "width": 1355,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm3172827136",
+            "url": "https://m.media-amazon.com/images/M/MV5BMTkzMTY0MjE5MV5BMl5BanBnXkFtZTcwODMxNDY3Mw@@._V1_.jpg",
+            "caption": {
+              "plainText": "Morgan Freeman and Tim Robbins in Vykoupení z věznice Shawshank (1994)",
+              "__typename": "Markdown"
+            },
+            "height": 1178,
+            "width": 1798,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm3156049920",
+            "url": "https://m.media-amazon.com/images/M/MV5BNTYxOTYyMzE3NV5BMl5BanBnXkFtZTcwOTMxNDY3Mw@@._V1_.jpg",
+            "caption": {
+              "plainText": "Morgan Freeman and Tim Robbins in Vykoupení z věznice Shawshank (1994)",
+              "__typename": "Markdown"
+            },
+            "height": 1216,
+            "width": 1800,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm3139272704",
+            "url": "https://m.media-amazon.com/images/M/MV5BMTgxMTU1MDkwOV5BMl5BanBnXkFtZTcwMDQxNDY3Mw@@._V1_.jpg",
+            "caption": {
+              "plainText": "Morgan Freeman, Gil Bellows, and Brian Libby in Vykoupení z věznice Shawshank (1994)",
+              "__typename": "Markdown"
+            },
+            "height": 1210,
+            "width": 1800,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm3122495488",
+            "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NTI4NDAxMV5BMl5BanBnXkFtZTcwMTQxNDY3Mw@@._V1_.jpg",
+            "caption": {
+              "plainText": "Morgan Freeman and Tim Robbins in Vykoupení z věznice Shawshank (1994)",
+              "__typename": "Markdown"
+            },
+            "height": 1203,
+            "width": 1800,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm3088941056",
+            "url": "https://m.media-amazon.com/images/M/MV5BMTMyODE3NTM1Ml5BMl5BanBnXkFtZTcwMzQxNDY3Mw@@._V1_.jpg",
+            "caption": {
+              "plainText": "Larry Brandenburg, David Proval, and Joseph Ragno in Vykoupení z věznice Shawshank (1994)",
+              "__typename": "Markdown"
+            },
+            "height": 1210,
+            "width": 1800,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm2266857472",
+            "url": "https://m.media-amazon.com/images/M/MV5BMTMxNzAwMzE0Nl5BMl5BanBnXkFtZTcwNDQxNDY3Mw@@._V1_.jpg",
+            "caption": {
+              "plainText": "Morgan Freeman, William Sadler, Larry Brandenburg, Neil Giuntoli, Brian Libby, David Proval, and James Whitmore in Vykoupení z věznice Shawshank (1994)",
+              "__typename": "Markdown"
+            },
+            "height": 1189,
+            "width": 1800,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm2250080256",
+            "url": "https://m.media-amazon.com/images/M/MV5BMTg3Nzg3ODU0NV5BMl5BanBnXkFtZTcwNTQxNDY3Mw@@._V1_.jpg",
+            "caption": {
+              "plainText": "Tim Robbins and Frank Darabont in Vykoupení z věznice Shawshank (1994)",
+              "__typename": "Markdown"
+            },
+            "height": 1080,
+            "width": 1920,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm2233303040",
+            "url": "https://m.media-amazon.com/images/M/MV5BNzAwOTk3MDg5MV5BMl5BanBnXkFtZTcwNjQxNDY3Mw@@._V1_.jpg",
+            "caption": {
+              "plainText": "James Whitmore in Vykoupení z věznice Shawshank (1994)",
+              "__typename": "Markdown"
+            },
+            "height": 900,
+            "width": 1440,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm1818789888",
+            "url": "https://m.media-amazon.com/images/M/MV5BMTg4MDA2MDM5Nl5BMl5BanBnXkFtZTcwOTU5MTQ2Mg@@._V1_.jpg",
+            "caption": {
+              "plainText": "Morgan Freeman and Tim Robbins in Vykoupení z věznice Shawshank (1994)",
+              "__typename": "Markdown"
+            },
+            "height": 1392,
+            "width": 2048,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        },
+        {
+          "node": {
+            "id": "rm2988277760",
+            "url": "https://m.media-amazon.com/images/M/MV5BMTkzMDA1OTUxNF5BMl5BanBnXkFtZTcwMzMxNDY3Mw@@._V1_.jpg",
+            "caption": {
+              "plainText": "Frank Darabont in Vykoupení z věznice Shawshank (1994)",
+              "__typename": "Markdown"
+            },
+            "height": 1198,
+            "width": 1800,
+            "__typename": "Image"
+          },
+          "__typename": "ImageEdge"
+        }
+      ],
+      "__typename": "ImageConnection"
+    },
+    "productionStatus": {
+      "currentProductionStage": {
+        "id": "released",
+        "text": "Released",
+        "__typename": "ProductionStage"
+      },
+      "productionStatusHistory": [
+        {
+          "status": {
+            "id": "released",
+            "text": "Released",
+            "__typename": "ProductionStatus"
+          },
+          "__typename": "ProductionStatusHistory"
+        }
+      ],
+      "restriction": null,
+      "__typename": "ProductionStatusDetails"
+    },
+    "primaryImage": {
+      "id": "rm1690056449",
+      "__typename": "Image"
+    },
+    "imageUploadLink": {
+      "url": "https://contribute.imdb.com/image/tt0111161/add?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web",
+      "__typename": "ContributionLink"
+    },
+    "titleType": {
+      "id": "movie",
+      "canHaveEpisodes": false,
+      "__typename": "TitleType"
+    },
+    "cast": {
+      "edges": [
+        {
+          "node": {
+            "name": {
+              "id": "nm0000209",
+              "nameText": {
+                "text": "Tim Robbins",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_.jpg",
+                "width": 311,
+                "height": 400,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actor",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "Andy Dufresne",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0000151",
+              "nameText": {
+                "text": "Morgan Freeman",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BMTc0MDMyMzI2OF5BMl5BanBnXkFtZTcwMzM2OTk1MQ@@._V1_.jpg",
+                "width": 267,
+                "height": 400,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actor",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "Ellis Boyd 'Red' Redding",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0348409",
+              "nameText": {
+                "text": "Bob Gunton",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BMjUyZDQ0NjktZmM5ZS00NzcxLTliMWYtNWUxNDcyMmExZjU0XkEyXkFqcGdeQXVyMTE1MjA4NzM@._V1_.jpg",
+                "width": 3803,
+                "height": 4811,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actor",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "Warden Norton",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0006669",
+              "nameText": {
+                "text": "William Sadler",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BMTA1NjU3NDg1MTheQTJeQWpwZ15BbWU2MDI4OTcxMw@@._V1_.jpg",
+                "width": 485,
+                "height": 582,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actor",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "Heywood",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0000317",
+              "nameText": {
+                "text": "Clancy Brown",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BMTUxODY3NjAzMF5BMl5BanBnXkFtZTcwMTQ5MjYwNg@@._V1_.jpg",
+                "width": 1418,
+                "height": 2048,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actor",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "Captain Hadley",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0004743",
+              "nameText": {
+                "text": "Gil Bellows",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BMTgxMzc0MDAzNV5BMl5BanBnXkFtZTgwMzUzMTI0MzE@._V1_.jpg",
+                "width": 2448,
+                "height": 3264,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actor",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "Tommy",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0001679",
+              "nameText": {
+                "text": "Mark Rolston",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BODE5NDRlZTctMjkzNC00NGY3LThhYTItNzUxZjgzYzFmMjQxXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+                "width": 806,
+                "height": 975,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actor",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "Bogs Diamond",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0926235",
+              "nameText": {
+                "text": "James Whitmore",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BMTg5MzkxMTkxOV5BMl5BanBnXkFtZTcwNTEzNTgxMw@@._V1_.jpg",
+                "width": 354,
+                "height": 400,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actor",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "Brooks Hatlen",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0218810",
+              "nameText": {
+                "text": "Jeffrey DeMunn",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BMTQ0Mjc3NDA1OV5BMl5BanBnXkFtZTcwMTg3MDEyOA@@._V1_.jpg",
+                "width": 1615,
+                "height": 2048,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actor",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "1946 D.A.",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0104594",
+              "nameText": {
+                "text": "Larry Brandenburg",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BNDczZGZiZjMtZGRmMC00Y2I5LThiNzAtZGQzZWYzZWFiNzM0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+                "width": 459,
+                "height": 516,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actor",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "Skeet",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0321358",
+              "nameText": {
+                "text": "Neil Giuntoli",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BMjI0OTUxNjIyNF5BMl5BanBnXkFtZTcwNDE0MDcwOA@@._V1_.jpg",
+                "width": 1550,
+                "height": 2048,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actor",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "Jigger",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0508742",
+              "nameText": {
+                "text": "Brian Libby",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BMjI2NDYwNzU0NV5BMl5BanBnXkFtZTcwMjYwMTcwOA@@._V1_.jpg",
+                "width": 1473,
+                "height": 2048,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actor",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "Floyd",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0698998",
+              "nameText": {
+                "text": "David Proval",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BMjE0MTU0NjU3Nl5BMl5BanBnXkFtZTYwNTgzNjY0._V1_.jpg",
+                "width": 274,
+                "height": 400,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actor",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "Snooze",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0706554",
+              "nameText": {
+                "text": "Joseph Ragno",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BMTQyNzMyNTUwNV5BMl5BanBnXkFtZTcwNjQ2MTcwOA@@._V1_.jpg",
+                "width": 480,
+                "height": 671,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actor",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "Ernie",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0161980",
+              "nameText": {
+                "text": "Jude Ciccolella",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BMjZmOTU1ZDktNDdkZi00YjkxLWFiODYtMjUzZWVhYmFiYjIxXkEyXkFqcGdeQXVyMTI3MzAzOTM@._V1_.jpg",
+                "width": 480,
+                "height": 640,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actor",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "Guard Mert",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0005204",
+              "nameText": {
+                "text": "Paul McCrane",
+                "__typename": "NameText"
+              },
+              "primaryImage": {
+                "url": "https://m.media-amazon.com/images/M/MV5BMTI2Mjc1NzExN15BMl5BanBnXkFtZTYwNjUzMzQz._V1_.jpg",
+                "width": 272,
+                "height": 400,
+                "__typename": "Image"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actor",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "Guard Trout",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0086169",
+              "nameText": {
+                "text": "Renee Blaine",
+                "__typename": "NameText"
+              },
+              "primaryImage": null,
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actress",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "Andy Dufresne's Wife",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        },
+        {
+          "node": {
+            "name": {
+              "id": "nm0542957",
+              "nameText": {
+                "text": "Scott Mann",
+                "__typename": "NameText"
+              },
+              "primaryImage": null,
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "category": {
+              "id": "actor",
+              "__typename": "CreditCategory"
+            },
+            "characters": [
+              {
+                "name": "Glenn Quentin",
+                "__typename": "Character"
+              }
+            ],
+            "episodeCredits": {
+              "total": 0,
+              "yearRange": null,
+              "__typename": "EpisodeCastConnection"
+            },
+            "__typename": "Cast"
+          },
+          "__typename": "CreditEdge"
+        }
+      ],
+      "__typename": "CreditConnection"
+    },
+    "creators": [],
+    "directors": [
+      {
+        "totalCredits": 1,
+        "category": {
+          "text": "Director",
+          "__typename": "CreditCategory"
+        },
+        "credits": [
+          {
+            "name": {
+              "id": "nm0001104",
+              "nameText": {
+                "text": "Frank Darabont",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "__typename": "Crew"
+          }
+        ],
+        "__typename": "PrincipalCreditsForCategory"
+      }
+    ],
+    "writers": [
+      {
+        "totalCredits": 2,
+        "category": {
+          "text": "Writers",
+          "__typename": "CreditCategory"
+        },
+        "credits": [
+          {
+            "name": {
+              "id": "nm0000175",
+              "nameText": {
+                "text": "Stephen King",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "__typename": "Crew"
+          },
+          {
+            "name": {
+              "id": "nm0001104",
+              "nameText": {
+                "text": "Frank Darabont",
+                "__typename": "NameText"
+              },
+              "__typename": "Name"
+            },
+            "attributes": null,
+            "__typename": "Crew"
+          }
+        ],
+        "__typename": "PrincipalCreditsForCategory"
+      }
+    ],
+    "isAdult": false,
+    "moreLikeThisTitles": {
+      "edges": [
+        {
+          "node": {
+            "id": "tt0468569",
+            "titleText": {
+              "text": "Temný rytíř",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "The Dark Knight",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm4023877632",
+              "width": 1383,
+              "height": 2048,
+              "url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+              "caption": {
+                "plainText": "Morgan Freeman, Gary Oldman, Christian Bale, Michael Caine, Aaron Eckhart, Heath Ledger, Maggie Gyllenhaal, Cillian Murphy, and Chin Han in Temný rytíř (2008)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 2008,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 9,
+              "voteCount": 2878785,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 9120,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "PG-13",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Action",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Crime",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Drama",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "canHaveEpisodes": false,
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt0068646",
+            "titleText": {
+              "text": "Kmotr",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "The Godfather",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm746868224",
+              "width": 1396,
+              "height": 1982,
+              "url": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+              "caption": {
+                "plainText": "Marlon Brando in Kmotr (1972)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 1972,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 9.2,
+              "voteCount": 2018808,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 10500,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "R",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Crime",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Drama",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "canHaveEpisodes": false,
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt0109830",
+            "titleText": {
+              "text": "Forrest Gump",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "Forrest Gump",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm1954748672",
+              "width": 558,
+              "height": 809,
+              "url": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+              "caption": {
+                "plainText": "Tom Hanks in Forrest Gump (1994)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 1994,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 8.8,
+              "voteCount": 2264313,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 8520,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "PG-13",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Drama",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Romance",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "canHaveEpisodes": false,
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt0137523",
+            "titleText": {
+              "text": "Klub rváčů",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "Fight Club",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm1412004864",
+              "width": 1066,
+              "height": 1600,
+              "url": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+              "caption": {
+                "plainText": "Brad Pitt and Edward Norton in Klub rváčů (1999)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 1999,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 8.8,
+              "voteCount": 2331603,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 8340,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "18",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Drama",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "canHaveEpisodes": false,
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt1375666",
+            "titleText": {
+              "text": "Počátek",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "Inception",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm3426651392",
+              "width": 700,
+              "height": 1037,
+              "url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+              "caption": {
+                "plainText": "Leonardo DiCaprio, Tom Berenger, Michael Caine, Lukas Haas, Marion Cotillard, Joseph Gordon-Levitt, Tom Hardy, Elliot Page, Ken Watanabe, and Dileep Rao in Počátek (2010)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 2010,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 8.8,
+              "voteCount": 2558257,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 8880,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "12",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Action",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Adventure",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Sci-Fi",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "canHaveEpisodes": false,
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt0110912",
+            "titleText": {
+              "text": "Pulp Fiction: Historky z podsvětí",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "Pulp Fiction",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm1959546112",
+              "width": 1055,
+              "height": 1536,
+              "url": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+              "caption": {
+                "plainText": "Uma Thurman in Pulp Fiction: Historky z podsvětí (1994)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 1994,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 8.9,
+              "voteCount": 2226649,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 9240,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "15",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Crime",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Drama",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "canHaveEpisodes": false,
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt0120689",
+            "titleText": {
+              "text": "Zelená míle",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "The Green Mile",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm946247936",
+              "width": 500,
+              "height": 740,
+              "url": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
+              "caption": {
+                "plainText": "Movie Poster",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 1999,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 8.6,
+              "voteCount": 1411666,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 11340,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "R",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Crime",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Drama",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Fantasy",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "canHaveEpisodes": false,
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt0816692",
+            "titleText": {
+              "text": "Interstellar",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "Interstellar",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm4043724800",
+              "width": 2430,
+              "height": 3600,
+              "url": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+              "caption": {
+                "plainText": "Matthew McConaughey in Interstellar (2014)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 2014,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 8.7,
+              "voteCount": 2110050,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 10140,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "12",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Adventure",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Drama",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Sci-Fi",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "canHaveEpisodes": false,
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt0114369",
+            "titleText": {
+              "text": "Sedm",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "Se7en",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm3116368640",
+              "width": 1801,
+              "height": 2815,
+              "url": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+              "caption": {
+                "plainText": "Brad Pitt and Morgan Freeman in Sedm (1995)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 1995,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 8.6,
+              "voteCount": 1804343,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 7620,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "R",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Crime",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Drama",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Mystery",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "canHaveEpisodes": false,
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt0071562",
+            "titleText": {
+              "text": "Kmotr II",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "The Godfather Part II",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm4159262464",
+              "width": 1791,
+              "height": 2552,
+              "url": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+              "caption": {
+                "plainText": "Al Pacino in Kmotr II (1974)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 1974,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 9,
+              "voteCount": 1367745,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 12120,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "R",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Crime",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Drama",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "canHaveEpisodes": false,
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt0108052",
+            "titleText": {
+              "text": "Schindlerův seznam",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "Schindler's List",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm1610023168",
+              "width": 1600,
+              "height": 2400,
+              "url": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+              "caption": {
+                "plainText": "Schindlerův seznam (1993)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 1993,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 9,
+              "voteCount": 1454944,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 11700,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "15",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Biography",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Drama",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "History",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "canHaveEpisodes": false,
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        },
+        {
+          "node": {
+            "id": "tt0167260",
+            "titleText": {
+              "text": "Pán prstenů: Návrat krále",
+              "__typename": "TitleText"
+            },
+            "titleType": {
+              "id": "movie",
+              "text": "Movie",
+              "canHaveEpisodes": false,
+              "displayableProperty": {
+                "value": {
+                  "plainText": "",
+                  "__typename": "Markdown"
+                },
+                "__typename": "DisplayableTitleTypeProperty"
+              },
+              "__typename": "TitleType"
+            },
+            "originalTitleText": {
+              "text": "The Lord of the Rings: The Return of the King",
+              "__typename": "TitleText"
+            },
+            "primaryImage": {
+              "id": "rm584928512",
+              "width": 800,
+              "height": 1185,
+              "url": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+              "caption": {
+                "plainText": "Liv Tyler, Sean Astin, Elijah Wood, Viggo Mortensen, Ian McKellen, and Andy Serkis in Pán prstenů: Návrat krále (2003)",
+                "__typename": "Markdown"
+              },
+              "__typename": "Image"
+            },
+            "releaseYear": {
+              "year": 2003,
+              "endYear": null,
+              "__typename": "YearRange"
+            },
+            "ratingsSummary": {
+              "aggregateRating": 9,
+              "voteCount": 1984428,
+              "__typename": "RatingsSummary"
+            },
+            "runtime": {
+              "seconds": 12060,
+              "__typename": "Runtime"
+            },
+            "certificate": {
+              "rating": "PG-13",
+              "__typename": "Certificate"
+            },
+            "canRate": {
+              "isRatable": true,
+              "__typename": "CanRate"
+            },
+            "titleGenres": {
+              "genres": [
+                {
+                  "genre": {
+                    "text": "Action",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Adventure",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                },
+                {
+                  "genre": {
+                    "text": "Drama",
+                    "__typename": "GenreItem"
+                  },
+                  "__typename": "TitleGenre"
+                }
+              ],
+              "__typename": "TitleGenres"
+            },
+            "canHaveEpisodes": false,
+            "__typename": "Title"
+          },
+          "__typename": "MoreLikeThisEdge"
+        }
+      ],
+      "__typename": "MoreLikeThisConnection"
+    },
+    "triviaTotal": {
+      "total": 212,
+      "__typename": "TriviaConnection"
+    },
+    "trivia": {
+      "edges": [
+        {
+          "node": {
+            "text": {
+              "plaidHtml": "Andy and Red&#39;s opening chat in the prison yard, in which Red is throwing a baseball, took nine hours to shoot. Ca class=ipc-md-link ipc-md-link--entity href=/name/nm0000151/?ref_=tt_trv_trvEMorgan FreemanC/aE threw the baseball for the entire nine hours without a word of complaint. He showed up for work the next day with his left arm in a sling.",
+              "__typename": "Markdown"
+            },
+            "trademark": null,
+            "relatedNames": null,
+            "__typename": "TitleTrivia"
+          },
+          "__typename": "TriviaEdge"
+        }
+      ],
+      "__typename": "TriviaConnection"
+    },
+    "goofsTotal": {
+      "total": 105,
+      "__typename": "GoofConnection"
+    },
+    "goofs": {
+      "edges": [
+        {
+          "node": {
+            "text": {
+              "plaidHtml": "Circa 1963, Heywood is shown listening to the record &quot;24 of Ca class=ipc-md-link ipc-md-link--entity href=/name/nm0930729/?ref_=tt_trv_gfEHank WilliamsC/aE&#39; Greatest Hits&quot;, released in 1970.",
+              "__typename": "Markdown"
+            },
+            "__typename": "Goof"
+          },
+          "__typename": "GoofEdge"
+        }
+      ],
+      "__typename": "GoofConnection"
+    },
+    "quotesTotal": {
+      "total": 116,
+      "__typename": "TitleQuoteConnection"
+    },
+    "quotes": {
+      "edges": [
+        {
+          "node": {
+            "lines": [
+              {
+                "characters": [
+                  {
+                    "character": "Andy Dufresne",
+                    "name": {
+                      "id": "nm0000209",
+                      "__typename": "Name"
+                    },
+                    "__typename": "TitleQuoteCharacter"
+                  }
+                ],
+                "text": "I guess it comes down to a simple choice, really. Get busy living, or get busy dying.",
+                "stageDirection": "to Red",
+                "__typename": "TitleQuoteLine"
+              }
+            ],
+            "__typename": "TitleQuote"
+          },
+          "__typename": "TitleQuoteEdge"
+        }
+      ],
+      "__typename": "TitleQuoteConnection"
+    },
+    "crazyCredits": {
+      "edges": [
+        {
+          "node": {
+            "text": {
+              "plaidHtml": "The man who cried and was beaten when Andy firstarrived is listed and credited as &quot;Fat Ass&quot; -- the otherinmates&#39; nickname for him.",
+              "__typename": "Markdown"
+            },
+            "__typename": "CrazyCredit"
+          },
+          "__typename": "CrazyCreditEdge"
+        }
+      ],
+      "__typename": "CrazyCreditConnection"
+    },
+    "alternateVersions": {
+      "total": 5,
+      "edges": [
+        {
+          "node": {
+            "text": {
+              "plaidHtml": "This film was produced independently by Castle Rock Entertainment, but distributed by Columbia Pictures, which placed their logo at the beginning of the film. After the first video release, Castle Rock began to use Warner Bros. as their distributor. This film was then later re-issued on video and DVD by Warner Bros., which replaced the Columbia Pictures logo with their own. (The 1999 WB DVD uses no studio logo before Castle Rock [A Turner Company], and has no Columbia line-art logo at the end, just 10 seconds of blank screen as the music finishes. The post-2004 prints start with the 2003 WB logo and an updated Castle Rock logo [A TimeWarner Company], and have the Columbia line-art logo in the crawl at the end followed by a quick, still, 2003 WB logo. See also The American President.)",
+              "__typename": "Markdown"
+            },
+            "__typename": "AlternateVersion"
+          },
+          "__typename": "AlternateVersionEdge"
+        }
+      ],
+      "__typename": "AlternateVersionConnection"
+    },
+    "connections": {
+      "edges": [
+        {
+          "node": {
+            "associatedTitle": {
+              "id": "tt1936736",
+              "releaseYear": {
+                "year": 1994,
+                "__typename": "YearRange"
+              },
+              "titleText": {
+                "text": "Why Gump? Why Now?",
+                "__typename": "TitleText"
+              },
+              "originalTitleText": {
+                "text": "Why Gump? Why Now?",
+                "__typename": "TitleText"
+              },
+              "series": {
+                "series": {
+                  "titleText": {
+                    "text": "Siskel & Ebert & the Movies",
+                    "__typename": "TitleText"
+                  },
+                  "originalTitleText": {
+                    "text": "Siskel & Ebert & the Movies",
+                    "__typename": "TitleText"
+                  },
+                  "__typename": "Title"
+                },
+                "__typename": "Series"
+              },
+              "__typename": "Title"
+            },
+            "category": {
+              "text": "Featured in",
+              "__typename": "TitleConnectionCategory"
+            },
+            "__typename": "TitleConnection"
+          },
+          "__typename": "TitleConnectionEdge"
+        }
+      ],
+      "__typename": "TitleConnectionConnection"
+    },
+    "soundtrack": {
+      "edges": [
+        {
+          "node": {
+            "text": "If I Didn't Care",
+            "comments": [
+              {
+                "plaidHtml": "by Ca class=ipc-md-link ipc-md-link--entity href=/name/nm0492805/?ref_=tt_trv_sndEJack LawrenceC/aE",
+                "__typename": "Markdown"
+              },
+              {
+                "plaidHtml": "Performed by Ca class=ipc-md-link ipc-md-link--entity href=/name/nm1311414/?ref_=tt_trv_sndEThe Ink SpotsC/aE",
+                "__typename": "Markdown"
+              },
+              {
+                "plaidHtml": "Courtesy of MCA Records",
+                "__typename": "Markdown"
+              }
+            ],
+            "__typename": "Track"
+          },
+          "__typename": "SoundtrackEdge"
+        }
+      ],
+      "__typename": "SoundtrackConnection"
+    },
+    "titleText": {
+      "text": "Vykoupení z věznice Shawshank",
+      "__typename": "TitleText"
+    },
+    "originalTitleText": {
+      "text": "The Shawshank Redemption",
+      "__typename": "TitleText"
+    },
+    "releaseYear": {
+      "year": 1994,
+      "__typename": "YearRange"
+    },
+    "reviews": {
+      "total": 11074,
+      "__typename": "ReviewsConnection"
+    },
+    "featuredReviews": {
+      "edges": [
+        {
+          "node": {
+            "id": "rw1221355",
+            "author": {
+              "nickName": "EyeDunno",
+              "userId": "ur0265899",
+              "__typename": "UserProfile"
+            },
+            "summary": {
+              "originalText": "Don't Rent Shawshank.",
+              "__typename": "ReviewSummary"
+            },
+            "text": {
+              "originalText": {
+                "plaidHtml": "I&#39;m trying to save you money; this is the last film title that you should consider borrowing. Renting Shawshank will cost you five bucks... just plunk down the $25 and own the title. You&#39;ll wind up going back to this gem time and time again. This is one of few movies that are truly timeless. And it&#39;s entertaining and moving, no matter how many times you view it.Cbr/ECbr/EForget about what others (including myself) might suggest you&#39;ll discover in &quot;The Shawshank Redemption;&quot; when you watch it, you&#39;ll identify something very personal in your own life with a scene, a character, or a moment in this uncomplicated movie. When you need hope, you&#39;ll look for Shawshank. When you want to believe in the will of overcoming even the greatest obstacles, Shawshank will uplift you in ways that you can&#39;t find in movies today. Cbr/ECbr/ESome liken the film to some kind of spiritual awakening. Of course, some can go to a church or mosque to find enlightenment and Faith in humanity, but most places of worship are open only certain days or times. But when you need affirmation of the lasting bond of friendships that prevail over the most dire circumstances, Shawshank will give it to you. It makes grown men (like me) cry, still. I wonder whether Shawshank was truly meant for viewing in the privacy of the home, because it is a personal experience that really makes you look inward. Nominated for seven, this is the best film that never one a single Oscar. Cbr/ECbr/EHow ironic that an innocent man winds up being surrounded by the corruption of the legal system. Shawshank itself is similar to the character of Andy Dufresne. Prejudging this classic film, critics couldn&#39;t get past the title. The public followed suit, initially dismissing Shawshank, which failed in the box office just like &quot;It&#39;s a Wonderful Life&quot; and &quot;Citizen Kane.&quot; It could have just whithered away on the store shelves, like Andy Dufresne could have in his own cell. But the characters prevailed, because Andy -- And Shawshank -- stayed true. Now, these movies are right up there as the most popular films of all time. Cbr/ECbr/EAnyone who has yet to watch Shawshank may be so jaded of movies, or the film&#39;s title, or how a 2-1/2- hour movie set inside the walls of a prison can manage to tap the soul of such a wide range of people. Shawshank has not one explosion. I wonder if it even has a single special effect or digitally- enhanced frame. Cbr/ECbr/EBut every aspect of Shawshank fit together. The acting from the top to the bit part. The musical score. The editing. The photography. The story, from opening credits to final scene. All involved, including the town of Mansfield, Ohio (where Shawshank was actually filmed) played their roles perfectly. Shawshank is a must- see, must- own title.",
+                "__typename": "Markdown"
+              },
+              "__typename": "ReviewText"
+            },
+            "authorRating": 10,
+            "submissionDate": "2005-11-21",
+            "helpfulness": {
+              "upVotes": 974,
+              "downVotes": 113,
+              "__typename": "ReviewHelpfulness"
+            },
+            "__typename": "Review"
+          },
+          "__typename": "ReviewEdge"
+        }
+      ],
+      "__typename": "ReviewsConnection"
+    },
+    "canRate": {
+      "isRatable": true,
+      "__typename": "CanRate"
+    },
+    "iframeAddReviewLink": {
+      "url": "https://contribute.imdb.com/review/tt0111161/add?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web",
+      "__typename": "ContributionLink"
+    },
+    "topQuestions": {
+      "total": 20,
+      "edges": [
+        {
+          "node": {
+            "attributeId": "run-time",
+            "question": {
+              "plainText": "How long is The Shawshank Redemption?",
+              "__typename": "Markdown"
+            },
+            "__typename": "AlexaQuestion"
+          },
+          "__typename": "AlexaQuestionEdge"
+        }
+      ],
+      "__typename": "AlexaQuestionConnection"
+    },
+    "faqs": {
+      "total": 25,
+      "edges": [
+        {
+          "node": {
+            "id": "fq0102172",
+            "question": {
+              "plainText": "Does the novella explain why Fat Ass is in prison? He seems too much like a cry baby to have committed any crimes.",
+              "__typename": "Markdown"
+            },
+            "__typename": "Faq"
+          },
+          "__typename": "FaqEdge"
+        },
+        {
+          "node": {
+            "id": "fq0110659",
+            "question": {
+              "plainText": "Why does Andy talk in code to Red at the movie about getting Rita Hayworth since they have already done business before and Andy asked for the rock hammer in the same way?",
+              "__typename": "Markdown"
+            },
+            "__typename": "Faq"
+          },
+          "__typename": "FaqEdge"
+        },
+        {
+          "node": {
+            "id": "fq0123661",
+            "question": {
+              "plainText": "Why is Captain Hadley so cruel?",
+              "__typename": "Markdown"
+            },
+            "__typename": "Faq"
+          },
+          "__typename": "FaqEdge"
+        }
+      ],
+      "__typename": "FaqConnection"
+    },
+    "releaseDate": {
+      "day": 6,
+      "month": 7,
+      "year": 1995,
+      "country": {
+        "id": "CZ",
+        "text": "Czech Republic",
+        "__typename": "LocalizedDisplayableCountry"
+      },
+      "__typename": "ReleaseDate"
+    },
+    "countriesOfOrigin": {
+      "countries": [
+        {
+          "id": "US",
+          "text": "United States",
+          "__typename": "CountryOfOrigin"
+        }
+      ],
+      "__typename": "CountriesOfOrigin"
+    },
+    "detailsExternalLinks": {
+      "edges": [
+        {
+          "node": {
+            "url": "https://www.facebook.com/shawshankredemptionfilm/",
+            "label": "Official Facebook",
+            "externalLinkRegion": null,
+            "__typename": "ExternalLink"
+          },
+          "__typename": "ExternalLinkEdge"
+        },
+        {
+          "node": {
+            "url": "https://www.warnerbros.com/movies/shawshank-redemption",
+            "label": "Warner Bros.",
+            "externalLinkRegion": {
+              "text": "United States",
+              "__typename": "DisplayableCountry"
+            },
+            "__typename": "ExternalLink"
+          },
+          "__typename": "ExternalLinkEdge"
+        }
+      ],
+      "total": 2,
+      "__typename": "ExternalLinkConnection"
+    },
+    "spokenLanguages": {
+      "spokenLanguages": [
+        {
+          "id": "en",
+          "text": "English",
+          "__typename": "SpokenLanguage"
+        }
+      ],
+      "__typename": "SpokenLanguages"
+    },
+    "akas": {
+      "edges": [
+        {
+          "node": {
+            "text": "The Shawshank Redemption",
+            "__typename": "Aka"
+          },
+          "__typename": "AkaEdge"
+        }
+      ],
+      "__typename": "AkaConnection"
+    },
+    "filmingLocations": {
+      "edges": [
+        {
+          "node": {
+            "text": "Mansfield Reformatory - 100 Reformatory Road, Mansfield, Ohio, USA",
+            "location": "Mansfield Reformatory - 100 Reformatory Road, Mansfield, Ohio, USA",
+            "attributes": [
+              {
+                "text": "The prison that is used in the large panning scene, and used for the wardens office.",
+                "__typename": "DisplayableAttribute"
+              }
+            ],
+            "__typename": "FilmingLocation"
+          },
+          "__typename": "FilmingLocationEdge"
+        }
+      ],
+      "total": 20,
+      "__typename": "FilmingLocationConnection"
+    },
+    "production": {
+      "edges": [
+        {
+          "node": {
+            "company": {
+              "id": "co0040620",
+              "companyText": {
+                "text": "Castle Rock Entertainment",
+                "__typename": "CompanyText"
+              },
+              "__typename": "Company"
+            },
+            "__typename": "CompanyCredit"
+          },
+          "__typename": "CompanyCreditEdge"
+        }
+      ],
+      "__typename": "CompanyCreditConnection"
+    },
+    "companies": {
+      "total": 123,
+      "__typename": "CompanyCreditConnection"
+    },
+    "productionBudget": {
+      "budget": {
+        "amount": 25000000,
+        "currency": "USD",
+        "__typename": "Money"
+      },
+      "__typename": "ProductionBudget"
+    },
+    "lifetimeGross": {
+      "total": {
+        "amount": 28767189,
+        "currency": "USD",
+        "__typename": "Money"
+      },
+      "__typename": "BoxOfficeGross"
+    },
+    "openingWeekendGross": {
+      "gross": {
+        "total": {
+          "amount": 727327,
+          "currency": "USD",
+          "__typename": "Money"
+        },
+        "__typename": "BoxOfficeGross"
+      },
+      "weekendEndDate": "1994-09-25",
+      "__typename": "OpeningWeekendGross"
+    },
+    "worldwideGross": {
+      "total": {
+        "amount": 29175086,
+        "currency": "USD",
+        "__typename": "Money"
+      },
+      "__typename": "BoxOfficeGross"
+    },
+    "technicalSpecifications": {
+      "soundMixes": {
+        "items": [
+          {
+            "id": "dolby_digital",
+            "text": "Dolby Digital",
+            "attributes": [],
+            "__typename": "SoundMix"
+          }
+        ],
+        "__typename": "SoundMixes"
+      },
+      "aspectRatios": {
+        "items": [
+          {
+            "aspectRatio": "1.85 : 1",
+            "attributes": [],
+            "__typename": "AspectRatio"
+          }
+        ],
+        "__typename": "AspectRatios"
+      },
+      "colorations": {
+        "items": [],
+        "__typename": "Colorations"
+      },
+      "__typename": "TechnicalSpecifications"
+    },
+    "runtime": {
+      "seconds": 8520,
+      "__typename": "Runtime"
+    },
+    "series": null,
+    "canHaveEpisodes": false,
+    "contributionQuestions": {
+      "contributionLink": {
+        "url": "https://contribute.imdb.com/answers",
+        "__typename": "ContributionQuestionsLink"
+      },
+      "edges": [],
+      "__typename": "QuestionConnection"
+    },
+    "__typename": "Title"
+  },
+  "fake": {
+    "#TITLE": "The Shawshank Redemption",
+    "#YEAR": 1994,
+    "#IMDB_ID": "tt0111161",
+    "#RANK": 174,
+    "#ACTORS": "Tim Robbins, Morgan Freeman",
+    "#AKA": "The Shawshank Redemption (1994) ",
+    "#IMDB_URL": "https://imdb.com/title/tt0111161",
+    "#IMDB_IV": "https://html.imdbot.workers.dev/tt0111161",
+    "#IMG_POSTER": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+    "photo_width": 1200,
+    "photo_height": 1800
+  }
+}
